@@ -1,7 +1,7 @@
 {
   "name": "@types/ats-lab",
   "version": "1.0.0",
-  "description": "General types of ATS.",
+  "description": "General types of ATS",
   "types": "index.d.ts",
   "author": "Bondarenko Sergei Ivanovich [kosrotoff2002@gmail.com]",
   "license": "PRIVATE"
