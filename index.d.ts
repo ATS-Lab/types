@@ -1,0 +1,1 @@
+/// <reference path="types/candlestick.d.ts" />
